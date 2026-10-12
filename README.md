@@ -89,11 +89,3 @@ For NVIDIA GPU monitoring:
 - NVIDIA Management Library (NVML)
 
 Additional system components may be required for hardware-specific monitoring.
-
-## Project Status
-
-Nuxora is currently in development.
-
-The interface and available features may change as the project evolves.
-
-### © 2026 Bitoneko.
